@@ -1,0 +1,8 @@
+input.form-control{
+    border: 0px;
+    border-bottom: 5px ridge;
+}
+.bg-dark{
+    background-image:url('https://cdn.hipwallpaper.com/i/48/96/xepk6D.jpg');
+   /* background: linear-gradient(to bottom, rgb(86, 10, 226), rgb(0, 225, 255), rgb(204, 204, 255));*/
+}
